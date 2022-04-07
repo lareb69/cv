@@ -6,14 +6,14 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
   <title>Saba's Personal Site</title>
-  <link rel="stylesheet" href="/static/sabaullah.jpg">
+  <link rel="stylesheet" href="Sabaullah.jpg">
 </head>
 
 <body style="background-color: #ECECEC;">
   <table cellspacing="20">
     <tbody>
       <tr>
-        <td><img src="sabaullah.jpg" width="150" alt="saba profile picture"></td>
+        <td><img src="Sabaullah.jpg" width="150" alt="saba profile picture"></td>
         <td>
           <h1>MD SABA ULLAH</h1>
           <p><em>To work in a challenging and <strong>dynamic</strong> environment and to keep value adding to the organisation which I represent and serve/ I would seek a job that would be involving<b>responsibility</b> and utilizing my full
