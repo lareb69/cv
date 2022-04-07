@@ -23,9 +23,9 @@
   <hr>
   <h3>EDUCATION</h3>
   <ul>
-    <li><em>B.Com (Honours) - Marwari College, Ranchi(2019-2022)</li>
-    <li>Intermidiate - C.B.S.E - Firayalal Public School, Ranchi (2017-2019)</li>
-    <li>10<sup>th</sup> - C.B.S.E Firayalal Public School, Ranchi (2017)</em></li>
+    <li><em>B.Com (Honours) - Marwari College, Ranchi(2019-2022)</em></li>
+    <li><em>Intermidiate - C.B.S.E - Firayalal Public School, Ranchi (2017-2019)</em></li>
+    <li><em>10<sup>th</sup> - C.B.S.E Firayalal Public School, Ranchi (2017)</em></li>
   </ul>
   <hr>
   <h3>Skills</h3>
@@ -82,7 +82,5 @@
   <li><strong>MOBILE NO -</strong> <u style="color:#00AFC1;">+91-9110199730</u></li>
   <li><strong>EMAIL -</strong> <u style="color:#00AFC1;">sabaullah39421@gmail.com</u></li>
 
-
 </body>
-
 </html>
