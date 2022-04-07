@@ -9,7 +9,7 @@
 
 <body style="background-color: #EEEEEE;">
   <table cellspacing="20">
-    <tbody>
+    <tbody style="background-color: #EEEEEE;">
       <tr>
         <td><img src="sabaullah.jpg" width="150" alt="saba profile picture"></td>
         <td>
