@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<!-- saved from url=(0033)https://angelabauer.github.io/cv/ -->
+
 <html>
 
 <head>
