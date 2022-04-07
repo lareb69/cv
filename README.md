@@ -7,9 +7,9 @@
   <link rel="stylesheet" href="/static/sabaullah.jpg">
 </head>
 
-<body style="background-color: #EEEEEE;">
+<body style="background-color: #fff;">
   <table cellspacing="20">
-    <tbody style="background-color: #EEEEEE;">
+    <tbody>
       <tr>
         <td><img src="sabaullah.jpg" width="150" alt="saba profile picture"></td>
         <td>
