@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<!-- saved from url=(0033)https://angelabauer.github.io/cv/ -->
+
 <html>
 
 <head>
@@ -9,7 +8,7 @@
   <link rel="stylesheet" href="/static/sabaullah.jpg">
 </head>
 
-<body style="background-color: #ECECEC;">
+<body style="background-color: #fff;">
   <table cellspacing="20">
     <tbody>
       <tr>
