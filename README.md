@@ -3,7 +3,6 @@
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
   <title>Saba's Personal Site</title>
   <link rel="stylesheet" href="/static/sabaullah.jpg">
 </head>
