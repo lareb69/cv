@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="/static/sabaullah.jpg">
 </head>
 
-<body style="background-color: #fff;">
+<body style="background-color:white;">
   <table cellspacing="20">
     <tbody>
       <tr>
