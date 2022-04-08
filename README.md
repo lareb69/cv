@@ -14,7 +14,7 @@
         <td><img src="sabaullah.jpg" width="150" alt="saba profile picture"></td>
         <td>
           <h1>MD SABA ULLAH</h1>
-          <p><em>To work in a challenging and <strong>dynamic</strong> environment and to keep value adding to the organisation which I represent and serve/ I would seek a job that would be involving<b>responsibility</b> and utilizing my full
+          <p><em>To work in a challenging and <strong>dynamic</strong> environment and to keep value adding to the organisation which I represent and serve/ I would seek a job that would be involving<b> responsibility</b> and utilizing my full
               potential </em></p>
         </td>
       </tr>
