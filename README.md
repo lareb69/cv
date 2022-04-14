@@ -79,8 +79,8 @@
   <p>Date of birth - 06/12/2000</p>
   <hr>
   <h3>Contact</h3>
-  <li><strong>MOBILE NO -</strong> <u style="color:#00AFC1;">+91-9110199730</u></li>
-  <li><strong>EMAIL -</strong> <u style="color:#00AFC1;">sabaullah39421@gmail.com</u></li>
+  <li><strong>MOBILE NO -</strong> <u style="color:blue;">+91-9110199730</u></li>
+  <li><strong>EMAIL -</strong> <u style="color:blue;">sabaullah39421@gmail.com</u></li>
    <li><strong>LINKEDIN- </strong><a href="https://www.linkedin.com/in/md-saba-ullah-42b818227/">https://www.linkedin.com/in/md-saba-ullah-42b818227/</a></li>
 </body>
 </html>
