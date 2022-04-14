@@ -81,6 +81,6 @@
   <h3>Contact</h3>
   <li><strong>MOBILE NO -</strong> <u style="color:#00AFC1;">+91-9110199730</u></li>
   <li><strong>EMAIL -</strong> <u style="color:#00AFC1;">sabaullah39421@gmail.com</u></li>
-   <li style="color:#00AFC1;"><strong>Linkedin-</strong><a href="https://www.linkedin.com/in/md-saba-ullah-42b818227/">https://www.linkedin.com/in/md-saba-ullah-42b818227/</a></li>
+   <li style="color:#00AFC1;"><strong>Linkedin- </strong><a href="https://www.linkedin.com/in/md-saba-ullah-42b818227/">https://www.linkedin.com/in/md-saba-ullah-42b818227/</a></li>
 </body>
 </html>
